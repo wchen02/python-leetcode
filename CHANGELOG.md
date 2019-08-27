@@ -1,3 +1,9 @@
+### 0.1.0 (2019-08-27)
+
+##### New Features
+
+*  Solves two sum ([d5f38384](https://github.com/wchen02/python-leetcode/commit/d5f3838451e7e4f5e8a762e3f624b05d3e764f54))
+
 #### 0.0.2 (2019-08-27)
 
 ##### Documentation Changes
