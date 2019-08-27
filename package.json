@@ -1,0 +1,29 @@
+{
+  "name": "python-leetcode",
+  "version": "0.0.1",
+  "description": "Doing leetcode exercises in leetcode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release:major": "changelog -M && git add CHANGELOG.md && git commit -m 'updated CHANGELOG.md' && npm version major && git push origin && git push origin --tags",
+    "release:minor": "changelog -m && git add CHANGELOG.md && git commit -m 'updated CHANGELOG.md' && npm version minor && git push origin && git push origin --tags",
+    "release:patch": "changelog -p && git add CHANGELOG.md && git commit -m 'updated CHANGELOG.md' && npm version patch && git push origin && git push origin --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wchen02/python-leetcode.git"
+  },
+  "keywords": [
+    "python",
+    "leetcode"
+  ],
+  "author": "Wensheng Chen <hi@wenshengchen>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wchen02/python-leetcode/issues"
+  },
+  "homepage": "https://github.com/wchen02/python-leetcode#readme",
+  "dependencies": {
+    "generate-changelog": "^1.8.0"
+  }
+}
