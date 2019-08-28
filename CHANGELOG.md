@@ -1,3 +1,13 @@
+### 0.2.0 (2019-08-28)
+
+##### New Features
+
+*  Solves Find Pivot Index ([c1891ed9](https://github.com/wchen02/python-leetcode/commit/c1891ed96283b08fd5df09596e269a34b447a8f7))
+
+##### Other Changes
+
+*  Add big o analysis to two sum ([3847be41](https://github.com/wchen02/python-leetcode/commit/3847be419e027195f79612692c7985f976a9acb3))
+
 ### 0.1.0 (2019-08-27)
 
 ##### New Features
