@@ -1,3 +1,9 @@
+#### 0.2.1 (2019-08-28)
+
+##### Performance Improvements
+
+*  Optimize space complexity ([92acb432](https://github.com/wchen02/python-leetcode/commit/92acb432b3ea284655f1b1a56aa4bebed2484d0a))
+
 ### 0.2.0 (2019-08-28)
 
 ##### New Features
