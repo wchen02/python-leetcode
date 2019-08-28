@@ -15,6 +15,8 @@ Given nums = [2, 7, 11, 15], target = 9,
 Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 """
+
+## Solution
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         dict: Dict[int, int] = {}
@@ -28,7 +30,7 @@ class Solution:
 
         return []
 
-# TEST CASES
+## TEST CASES
 test = Solution()
 answer = test.twoSum([1,2,3,4], 6)
 assert answer == [1,3]
@@ -41,3 +43,8 @@ assert answer == [0,6]
 answer = test.twoSum([3,2,4], 6)
 assert answer == [1,2]
 print('All Passed!')
+
+## Big O Analysis
+# **Space Complexity**: O(N)
+
+# **Time Complexity**: O(N)
