@@ -29,20 +29,13 @@ If no such index exists, we should return -1. If there are multiple pivot indexe
 """
 class Solution:
     def pivotIndex(self, nums: List[int]) -> int:
-        left = []
-        right = []
-
-        rightSum = 0
-        for idx, num in enumerate(nums[::-1]):
-            right.append(rightSum)
-            rightSum += num
-
+        rightSum = sum(nums)
         leftSum = 0
         for idx, num in enumerate(nums):
-            left.append(leftSum)
             leftSum += num
-            if left[idx] == right[len(nums)-1-idx]:
+            if leftSum == rightSum:
                 return idx
+            rightSum -= num
 
         return -1
 
@@ -67,6 +60,6 @@ assert answer == -1
 print('All Passed!')
 
 ## Big O Analysis
-# **Space Complexity**: O(N)
+# **Space Complexity**: O(1)
 
 # **Time Complexity**: O(N)
