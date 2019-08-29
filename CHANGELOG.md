@@ -1,3 +1,9 @@
+#### 0.4.1 (2019-08-29)
+
+##### Other Changes
+
+*  remove unnecessary import ([19fe4786](https://github.com/wchen02/python-leetcode/commit/19fe47867d4d223abf4daf83f45a41e3e3faf14f))
+
 ### 0.4.0 (2019-08-29)
 
 ##### New Features
