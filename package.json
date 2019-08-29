@@ -1,6 +1,6 @@
 {
   "name": "python-leetcode",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Doing leetcode exercises in leetcode.",
   "main": "index.js",
   "scripts": {
