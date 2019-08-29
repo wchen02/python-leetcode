@@ -1,5 +1,6 @@
 from typing import List
 
+# See details here https://wenshengchen.com/2019/08/29/747-largest-numer-at-least-twice-of-others.html
 class Solution:
     def dominantIndex(self, nums: List[int]) -> int:
         largestNumIndex = -1
