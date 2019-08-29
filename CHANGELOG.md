@@ -1,3 +1,9 @@
+#### 0.3.1 (2019-08-29)
+
+##### Documentation Changes
+
+*  Link 747 to blog post ([20a3d0bf](https://github.com/wchen02/python-leetcode/commit/20a3d0bf4630b7276536ca216508119471501cb5))
+
 ### 0.3.0 (2019-08-29)
 
 ##### New Features
