@@ -1,3 +1,9 @@
+### 0.3.0 (2019-08-29)
+
+##### New Features
+
+*  Largest Number At Least Twice of Others ([86b83c4f](https://github.com/wchen02/python-leetcode/commit/86b83c4fda99790a6194a0ceba2a2929783e2782))
+
 #### 0.2.1 (2019-08-28)
 
 ##### Performance Improvements
