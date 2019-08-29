@@ -1,4 +1,4 @@
-from typing import List, Dict
+from typing import List
 
 # See details here # See details here https://wenshengchen.com/2019/08/29/66-plus-one.html
 class Solution:
