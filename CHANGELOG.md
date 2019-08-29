@@ -1,3 +1,9 @@
+### 0.4.0 (2019-08-29)
+
+##### New Features
+
+*  Solves Plus One ([12b75594](https://github.com/wchen02/python-leetcode/commit/12b75594f43bd6fd4ff2a79329b0da99995fdd09))
+
 #### 0.3.1 (2019-08-29)
 
 ##### Documentation Changes
