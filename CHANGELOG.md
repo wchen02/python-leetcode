@@ -1,3 +1,9 @@
+### 0.5.0 (2019-08-30)
+
+##### New Features
+
+*  solves diagonal traverse ([9e8605ff](https://github.com/wchen02/python-leetcode/commit/9e8605ff143427545e1e4e973b458e51156b4ba1))
+
 #### 0.4.1 (2019-08-29)
 
 ##### Other Changes
