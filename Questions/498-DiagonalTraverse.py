@@ -1,6 +1,6 @@
 from typing import List
 
-# See details here # See details here https://wenshengchen.com/2019/08/30/498-diagonal-traverse.html
+# See details here https://wenshengchen.com/2019/08/30/498-diagonal-traverse.html
 class Solution:
     def findDiagonalOrder(self, matrix: List[List[int]]) -> List[int]:
         if not matrix:
