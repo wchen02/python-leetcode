@@ -1,3 +1,9 @@
+### 0.7.0 (2019-09-01)
+
+##### New Features
+
+*  Solves Pascal's Triangle ([684b1c63](https://github.com/wchen02/python-leetcode/commit/684b1c63fdccc969ed358c6b1eb65ce2daf5cb24))
+
 ### 0.6.0 (2019-09-01)
 
 ##### New Features
