@@ -1,3 +1,9 @@
+### 0.8.0 (2019-09-01)
+
+##### New Features
+
+*  Solves Add Binary ([9b6d5c98](https://github.com/wchen02/python-leetcode/commit/9b6d5c982e384263e16a00b049a1db16dac702fe))
+
 ### 0.7.0 (2019-09-01)
 
 ##### New Features
