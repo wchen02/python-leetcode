@@ -1,3 +1,13 @@
+### 0.6.0 (2019-09-01)
+
+##### New Features
+
+*  Solves Spiral Matrix ([2179dd76](https://github.com/wchen02/python-leetcode/commit/2179dd767d6f8ecb34ddd637973d344e07626cc6))
+
+##### Other Changes
+
+*  update solution comment ([b1fbc423](https://github.com/wchen02/python-leetcode/commit/b1fbc42315bd6abdb111e6ac0eec3444724bf35a))
+
 ### 0.5.0 (2019-08-30)
 
 ##### New Features
