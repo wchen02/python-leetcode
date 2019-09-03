@@ -1,3 +1,9 @@
+### 0.9.0 (2019-09-03)
+
+##### New Features
+
+*  Solves Implement strStr using sliding window ([ac41303b](https://github.com/wchen02/python-leetcode/commit/ac41303bbeae15c2981060b833db3e797286caa0))
+
 ### 0.8.0 (2019-09-01)
 
 ##### New Features
