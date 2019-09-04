@@ -1,3 +1,9 @@
+#### 0.9.1 (2019-09-04)
+
+##### Refactors
+
+*  clean up code ([c6362c45](https://github.com/wchen02/python-leetcode/commit/c6362c45c8b1412ed2d556bd8377537f1f899fea))
+
 ### 0.9.0 (2019-09-03)
 
 ##### New Features
