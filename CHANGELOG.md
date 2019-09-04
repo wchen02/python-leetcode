@@ -1,3 +1,9 @@
+### 0.10.0 (2019-09-04)
+
+##### New Features
+
+*  Solves Number of islands ([7ce13057](https://github.com/wchen02/python-leetcode/commit/7ce13057aa33994857ac314451828a10e45ee9a5))
+
 #### 0.9.1 (2019-09-04)
 
 ##### Refactors
