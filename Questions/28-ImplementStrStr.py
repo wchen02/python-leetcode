@@ -1,4 +1,4 @@
-# See details here https://wenshengchen.com/2019/08/27/1-two-sum.html
+# See details here https://wenshengchen.com/2019/09/03/28-implement-str-str.html
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
         if len(needle) == 0 or haystack == needle:
@@ -6,27 +6,21 @@ class Solution:
         if len(haystack) < len(needle):
             return -1
 
-        charMap = [0] * 128
         charMask = [False] * 128
         count = len(needle)
         start, end = 0, 0
 
         for char in needle:
-            charMap[ord(char)] += 1
             charMask[ord(char)] = True
 
         while end < len(haystack):
-            endCode = ord(haystack[end])
-            if charMask[endCode]:
-                charMap[endCode] -= 1
+            if charMask[ord(haystack[end])]:
                 count -= 1
             end += 1
 
             while count == 0:
                 while end - start > len(needle) or count == 0 and haystack[start:start+len(needle)] != needle:
-                    startCode = ord(haystack[start])
-                    if charMask[startCode]:
-                        charMap[startCode] += 1
+                    if charMask[ord(haystack[start])]:
                         count += 1
                     start += 1
 
