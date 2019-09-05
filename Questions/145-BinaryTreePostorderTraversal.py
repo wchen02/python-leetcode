@@ -1,6 +1,6 @@
 from typing import List
 
-# See details here https://wenshengchen.com/2019/09/05/94-binary-tree-inorder-traversal.html
+# See details here https://wenshengchen.com/2019/09/05/145-binary-tree-postorder-traversal.html
 class TreeNode:
     def __init__(self, x):
         self.val = x
