@@ -1,3 +1,9 @@
+#### 0.13.1 (2019-09-05)
+
+##### Documentation Changes
+
+*  update post link ([3774cbb4](https://github.com/wchen02/python-leetcode/commit/3774cbb44414207c2838c94401ba7add1f6c484c))
+
 ### 0.13.0 (2019-09-05)
 
 ##### New Features
