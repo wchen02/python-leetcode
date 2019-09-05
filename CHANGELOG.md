@@ -1,3 +1,9 @@
+### 0.13.0 (2019-09-05)
+
+##### New Features
+
+*  Sovles Binary Tree Postorder Traversal ([0e8ba02e](https://github.com/wchen02/python-leetcode/commit/0e8ba02e88d4c42109233205bb56b99a89a747ad))
+
 ### 0.12.0 (2019-09-05)
 
 ##### New Features
