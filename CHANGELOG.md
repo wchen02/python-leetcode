@@ -1,3 +1,9 @@
+### 0.11.0 (2019-09-05)
+
+##### New Features
+
+*  Solves binary tree preorder traversal ([1b306a69](https://github.com/wchen02/python-leetcode/commit/1b306a692bc2b96dce6ab9b81fc25c33d4571977))
+
 ### 0.10.0 (2019-09-04)
 
 ##### New Features
