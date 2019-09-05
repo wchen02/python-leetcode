@@ -1,3 +1,9 @@
+### 0.12.0 (2019-09-05)
+
+##### New Features
+
+*  Solves binary tree inorder traversal ([83187a52](https://github.com/wchen02/python-leetcode/commit/83187a52f012ad454c5470f285511f49e9ca978d))
+
 ### 0.11.0 (2019-09-05)
 
 ##### New Features
