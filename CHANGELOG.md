@@ -1,3 +1,9 @@
+### 0.14.0 (2019-09-06)
+
+##### New Features
+
+*  Solves Binary Tree Level Order Traversal ([5c6bfcd5](https://github.com/wchen02/python-leetcode/commit/5c6bfcd5c54581909ad8efa5194310f145dd9565))
+
 #### 0.13.1 (2019-09-05)
 
 ##### Documentation Changes
