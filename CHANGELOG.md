@@ -1,3 +1,9 @@
+### 0.16.0 (2019-09-10)
+
+##### New Features
+
+*  Solves Serialize And Deserialize Binary Tree ([5552709d](https://github.com/wchen02/python-leetcode/commit/5552709d9dc7aac83454c7ef12728161ecf4fe74))
+
 ### 0.15.0 (2019-09-10)
 
 ##### New Features
