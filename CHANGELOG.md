@@ -1,3 +1,9 @@
+### 0.15.0 (2019-09-10)
+
+##### New Features
+
+*  solves maximum depth of binary tree ([69c9908b](https://github.com/wchen02/python-leetcode/commit/69c9908b72426734408ecb5c8df03c3cc414d6d4))
+
 ### 0.14.0 (2019-09-06)
 
 ##### New Features
