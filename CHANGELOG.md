@@ -1,3 +1,9 @@
+### 0.18.0 (2019-09-26)
+
+##### New Features
+
+*  Solves Permutations ([a6fb33d5](https://github.com/wchen02/python-leetcode/commit/a6fb33d5d0821aebf350e9430a82253aa9686a70))
+
 ### 0.17.0 (2019-09-23)
 
 ##### New Features
