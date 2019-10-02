@@ -1,3 +1,9 @@
+#### 0.18.1 (2019-10-02)
+
+##### Refactors
+
+*  improve plus one solution ([fbbe5ea1](https://github.com/wchen02/python-leetcode/commit/fbbe5ea10d537c44dcff4e4d4bfe8d71e541f350))
+
 ### 0.18.0 (2019-09-26)
 
 ##### New Features
