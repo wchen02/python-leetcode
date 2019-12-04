@@ -1,3 +1,9 @@
+### 0.19.0 (2019-12-04)
+
+##### New Features
+
+*  Solves Single Number ([4efe938c](https://github.com/wchen02/python-leetcode/commit/4efe938c3f55ec17e81cbb65e4ba1a34c708bfb8))
+
 #### 0.18.1 (2019-10-02)
 
 ##### Refactors
