@@ -1,3 +1,9 @@
+### 0.21.0 (2019-12-04)
+
+##### New Features
+
+*  Solves Reverse String ([0ec00a1a](https://github.com/wchen02/python-leetcode/commit/0ec00a1a769e80753a1787889f7be4920f55382a))
+
 ### 0.20.0 (2019-12-04)
 
 ##### New Features
