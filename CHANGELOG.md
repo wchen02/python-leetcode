@@ -1,3 +1,9 @@
+### 0.20.0 (2019-12-04)
+
+##### New Features
+
+*  Solves Reverse Linked List ([57311877](https://github.com/wchen02/python-leetcode/commit/573118772a5fd8e44c84393e101388e65492692c))
+
 ### 0.19.0 (2019-12-04)
 
 ##### New Features
