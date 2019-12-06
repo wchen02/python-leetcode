@@ -1,3 +1,9 @@
+### 0.23.0 (2019-12-06)
+
+##### New Features
+
+*  Solves majority element ([3d31ec5d](https://github.com/wchen02/python-leetcode/commit/3d31ec5d7d70337602b9fb5d8e299ac5864e32f5))
+
 ### 0.22.0 (2019-12-04)
 
 ### 0.21.0 (2019-12-04)
