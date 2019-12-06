@@ -1,3 +1,9 @@
+### 0.25.0 (2019-12-06)
+
+##### New Features
+
+*  Solves Move Zeroes ([ebc54270](https://github.com/wchen02/python-leetcode/commit/ebc5427045d2fa8075871919c0040ce181e4db3c))
+
 ### 0.24.0 (2019-12-06)
 
 ##### New Features
