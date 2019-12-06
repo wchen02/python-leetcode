@@ -1,3 +1,9 @@
+### 0.24.0 (2019-12-06)
+
+##### New Features
+
+*  Solves Delete node in a linked list ([e00f7b3f](https://github.com/wchen02/python-leetcode/commit/e00f7b3f42abb34c834f04483b3fffb295cd2aff))
+
 ### 0.23.0 (2019-12-06)
 
 ##### New Features
