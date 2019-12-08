@@ -8,13 +8,8 @@ class Solution:
         curSum = -sys.maxsize-1
 
         for i in range(len(nums)):
-            if curSum > 0:
-                curSum += nums[i]
-            else:
-                curSum = nums[i]
-
-            if curSum > maxSum:
-                maxSum = curSum
+            curSum = max(nums[i], curSum + nums[i])
+            maxSum = max(curSum, maxSum)
 
         return maxSum
 
