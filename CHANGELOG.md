@@ -1,3 +1,9 @@
+### 0.28.0 (2019-12-08)
+
+##### New Features
+
+*  Solves best time to buy and sell stock ii ([24bf5cb6](https://github.com/wchen02/python-leetcode/commit/24bf5cb6dda8bdc8928220369b2a0452650914bb))
+
 ### 0.27.0 (2019-12-08)
 
 ##### New Features
