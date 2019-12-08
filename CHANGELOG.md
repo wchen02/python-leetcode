@@ -1,3 +1,9 @@
+### 0.27.0 (2019-12-08)
+
+##### New Features
+
+*  Solves convert sorted array to binary search tree ([aabc2391](https://github.com/wchen02/python-leetcode/commit/aabc23913742c3a0f8c0439d8e60163821031ce3))
+
 ### 0.26.0 (2019-12-08)
 
 ##### New Features
