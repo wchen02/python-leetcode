@@ -1,3 +1,9 @@
+### 0.26.0 (2019-12-08)
+
+##### New Features
+
+*  Solves maximum subarray ([484bb00b](https://github.com/wchen02/python-leetcode/commit/484bb00b010a965fc407794ba7532b74f29b33bf))
+
 ### 0.25.0 (2019-12-06)
 
 ##### New Features
