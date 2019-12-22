@@ -1,3 +1,25 @@
+### 0.29.0 (2019-12-22)
+
+##### New Features
+
+*  Solves Kth Smallest Element In a Sorted Matrix ([48b998a4](https://github.com/wchen02/python-leetcode/commit/48b998a432385d7adf1ef4ae83d8f9d3b9fff90b))
+*  Solves Top K Frequent Elements ([62571095](https://github.com/wchen02/python-leetcode/commit/62571095ef6a383105a1bdace3db7ce679dac674))
+*  Solves Find the Duplicated Number ([d56e4c7c](https://github.com/wchen02/python-leetcode/commit/d56e4c7c335b8ff9b692a320b5e03feadb418192))
+*  Solves Product of Array Except Self ([5263652a](https://github.com/wchen02/python-leetcode/commit/5263652a8d17898940807d3e143f25d1f78fc345))
+*  Solves Palindrome Linked List ([c07fdada](https://github.com/wchen02/python-leetcode/commit/c07fdada3c86deeb58fd27b80dbcb0802c95c08a))
+*  Solves Kth Smallest Element In A BST ([dbeed3c1](https://github.com/wchen02/python-leetcode/commit/dbeed3c1251eeb0cff39052e071be6e0bbea3c70))
+*  Solves Kth Largest Element In An Array ([fbe349ae](https://github.com/wchen02/python-leetcode/commit/fbe349ae16f410fd8757b1ebe00bb74794f52f7f))
+*  Solves House Robber ([a62e659b](https://github.com/wchen02/python-leetcode/commit/a62e659b612764a3b3a38185587d363e9deb4ef5))
+*  Solves Rotate Array ([611d5d97](https://github.com/wchen02/python-leetcode/commit/611d5d970438262d91d830335d389ed0009d5003))
+*  Solves Symmetric Tree ([6a4c8cf5](https://github.com/wchen02/python-leetcode/commit/6a4c8cf5690e6cf99c0df67b15b003c53b831e18))
+*  Solves Subsets ([fa14d748](https://github.com/wchen02/python-leetcode/commit/fa14d748b1dd6b9849875d29e5a0e4664855f701))
+*  Solves Rotate Image ([68a76f14](https://github.com/wchen02/python-leetcode/commit/68a76f14adc079aa60eb892e40fa9b0d107967bf))
+*  Solves Generate Parentheses ([991b99a9](https://github.com/wchen02/python-leetcode/commit/991b99a9d86a38b41a3c5eb0bcef6084807e6039))
+
+##### Bug Fixes
+
+*  simplify solution code ([8a255caa](https://github.com/wchen02/python-leetcode/commit/8a255caa3a77c08800ac2a103f85c20eb6a1eaf4))
+
 ### 0.28.0 (2019-12-08)
 
 ##### New Features
