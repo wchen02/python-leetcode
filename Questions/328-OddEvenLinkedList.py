@@ -36,4 +36,19 @@ assert answer.next.val == 3
 assert answer.next.next.val == 5
 assert answer.next.next.next.val == 2
 assert answer.next.next.next.next.val == 4
+
+head = ListNode(1)
+head.next = ListNode(2)
+head.next.next = ListNode(3)
+head.next.next.next = ListNode(4)
+head.next.next.next.next = ListNode(5)
+head.next.next.next.next.next = ListNode(6)
+
+answer = test.oddEvenList(head)
+assert answer.val == 1
+assert answer.next.val == 3
+assert answer.next.next.val == 5
+assert answer.next.next.next.val == 2
+assert answer.next.next.next.next.val == 4
+assert answer.next.next.next.next.next.val == 6
 print('All Passed!')
