@@ -1,4 +1,4 @@
-# See details here https://wenshengchen.com/2019/12/18/328-odd-even-linked-list.html
+# See details here https://wenshengchen.com/2019/12/19/62-unique-paths.html
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
         if m <= 1 or n <= 1:
