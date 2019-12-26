@@ -1,3 +1,20 @@
+### 0.30.0 (2019-12-26)
+
+##### Documentation Changes
+
+*  fix doc url ([541c7958](https://github.com/wchen02/python-leetcode/commit/541c79588d2042f61034725f3d594a210493009b))
+
+##### New Features
+
+*  Solves Container with Most Water ([94f8802c](https://github.com/wchen02/python-leetcode/commit/94f8802ca33856a9b1f33847de8bf39fbb23a375))
+*  Solves Unique Paths ([ffff88aa](https://github.com/wchen02/python-leetcode/commit/ffff88aa1671adbefa40bb47e5b068ef11c89474))
+*  Solves Odd Even Linked List ([c312cc15](https://github.com/wchen02/python-leetcode/commit/c312cc154a0cfcfe6777f3d1237b7b3c720859ce))
+*  Solves Group Anagrams ([3b623137](https://github.com/wchen02/python-leetcode/commit/3b6231375451b9980213814017c6df2e802ad705))
+
+##### Tests
+
+*  Added one more test case for even nodes ([f52539ef](https://github.com/wchen02/python-leetcode/commit/f52539ef783606d78e0d41493871dbf19628ae26))
+
 ### 0.29.0 (2019-12-22)
 
 ##### New Features
