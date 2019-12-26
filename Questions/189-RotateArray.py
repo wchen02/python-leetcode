@@ -3,27 +3,36 @@ from typing import List
 
 class Solution:
     def rotate(self, nums: List[int], k: int) -> None:
-        if not nums or k % len(nums) == 0:
-            return
+        n = len(nums)
+        count = 0
 
-        numsLen = len(nums)
-        k = k % numsLen
-        curIndex = 0
-        curNum = nums[curIndex]
+        for i in range(n):
+            if count >= n:
+                break
+            curI = i
+            prev = nums[i]
 
-        for _ in range(numsLen):
-            nextIndex = (curIndex + k) % numsLen
-            nextNum = nums[nextIndex]
-            nums[nextIndex] = curNum
-            curNum = nextNum
-            curIndex = nextIndex
-        # nums[k] = curNum
+            nextI = (curI + k) % n
+            temp = nums[nextI]
+            nums[nextI] = prev
+            prev = temp
+
+            curI = nextI
+            count += 1
+            
+            while (curI != i):
+                nextI = (curI + k) % n
+                temp = nums[nextI]
+                nums[nextI] = prev
+                prev = temp
+                curI = nextI
+                count += 1
 
 ## TEST CASES
 test = Solution()
 alist = [1,2,3,4,5,6,7]
 test.rotate(alist, 3)
-assert set(alist) == set([5,6,7,1,2,3,4])
+assert set(alist) == set([5,6,7,1,2,3,4]),alist
 
 alist = [-1,-100,3,99]
 test.rotate(alist, 2)
