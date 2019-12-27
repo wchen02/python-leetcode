@@ -1,3 +1,17 @@
+### 0.31.0 (2019-12-27)
+
+##### New Features
+
+*  Solves Binary Treee Zig Zag Level Order Traversal ([6aab7568](https://github.com/wchen02/python-leetcode/commit/6aab75688087152e6ee1405726de0a3d2681dcc4))
+*  Solves Construct Binary Tree from Preorder and Inorder Traversal ([7d9d348f](https://github.com/wchen02/python-leetcode/commit/7d9d348f34e19e356d394d2421d86247d2082d9b))
+*  Solves Rotate Array ([39ebe51f](https://github.com/wchen02/python-leetcode/commit/39ebe51fd2d876a09906622a8fe6b6acf7fe81c2))
+*  Solves Insert Delete Get Random O(1) ([2e47c70c](https://github.com/wchen02/python-leetcode/commit/2e47c70c39a61a26e00496c3906d4bbbe19be3d1))
+*  Solves Fallten 2d vector ([4cc807c7](https://github.com/wchen02/python-leetcode/commit/4cc807c71a1331f54a11b87a5563864a4ff0e5a9))
+
+##### Other Changes
+
+*  flatten 2d vector wip ([ad6ae77f](https://github.com/wchen02/python-leetcode/commit/ad6ae77ffcc12585a70fc8c60d830604b449f489))
+
 ### 0.30.0 (2019-12-26)
 
 ##### Documentation Changes
