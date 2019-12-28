@@ -1,3 +1,11 @@
+### 0.32.0 (2019-12-28)
+
+##### New Features
+
+*  Solves Sort Color ([ccabca1d](https://github.com/wchen02/python-leetcode/commit/ccabca1dfc97c0ab4f787de1a736a7d0eb289038))
+*  Solves Letter Combinations of a Phone Number ([2fa10342](https://github.com/wchen02/python-leetcode/commit/2fa103429825773d82a5aed313943f6470fd3445))
+*  Solves Meeting Room II ([21a9748b](https://github.com/wchen02/python-leetcode/commit/21a9748b719cff42656f7aff8d5c706413c76ca1))
+
 ### 0.31.0 (2019-12-27)
 
 ##### New Features
