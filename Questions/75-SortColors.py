@@ -6,7 +6,6 @@ class Solution:
         redPtr = 0
         bluePtr = len(nums) - 1
         i = 0
-        # for i in range(len(nums)):
         while i <= bluePtr:
             if nums[i] == 0:
                 nums[i], nums[redPtr] = nums[redPtr], nums[i]
