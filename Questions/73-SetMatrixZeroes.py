@@ -12,10 +12,8 @@ class Solution:
         for row in range(rows):
             for col in range(cols):
                 if matrix[row][col] == 0:
-                    if matrix[row][0] == 0:
-                        isRowZero = True
-                    if matrix[0][col] == 0:
-                        isColZero = True
+                    if row == 0: isRowZero = True
+                    if col == 0: isColZero = True
                     matrix[0][col] = 0
                     matrix[row][0] = 0
         
@@ -25,12 +23,12 @@ class Solution:
                     matrix[row][col] = 0
         
         if isRowZero:
-            for row in range(rows):
-                matrix[row][0] = 0
-
-        if isColZero:
             for col in range(cols):
                 matrix[0][col] = 0
+
+        if isColZero:
+            for row in range(rows):
+                matrix[row][0] = 0
 
 ## TEST CASES
 test = Solution()
