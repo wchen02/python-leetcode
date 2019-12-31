@@ -1,3 +1,12 @@
+### 0.33.0 (2019-12-31)
+
+##### New Features
+
+*  Solves Longest Increasing Subsequence ([65ba9e7d](https://github.com/wchen02/python-leetcode/commit/65ba9e7dcdefc3ac6272b80354b0e2b9b300d9de))
+*  Solves Search a 2D matrix II ([f96deb74](https://github.com/wchen02/python-leetcode/commit/f96deb74e763aa0c66d168629f158767bfa7e7d0))
+*  Solves Find Peak Element ([36857321](https://github.com/wchen02/python-leetcode/commit/36857321e2178e823aa895fea5b2d7ae66977a96))
+*  Solves Perfect Squares ([f34e2bb8](https://github.com/wchen02/python-leetcode/commit/f34e2bb8c862fa777c36efcd66974bec0d4d0959))
+
 ### 0.32.0 (2019-12-28)
 
 ##### New Features
