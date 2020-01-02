@@ -1,3 +1,13 @@
+### 0.34.0 (2020-01-02)
+
+##### New Features
+
+*  Solves Set Matrix Zeroes ([1315db71](https://github.com/wchen02/python-leetcode/commit/1315db7150c67a58768d19809c00a695f52607b7))
+
+##### Refactors
+
+*  simplies code ([0fcc37a1](https://github.com/wchen02/python-leetcode/commit/0fcc37a1b3f41e55715561a35e346d2d06871ad7))
+
 ### 0.33.0 (2019-12-31)
 
 ##### New Features
