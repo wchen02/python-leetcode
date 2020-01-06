@@ -1,3 +1,9 @@
+### 0.35.0 (2020-01-05)
+
+##### New Features
+
+*  Solves Find The Celebrity ([e2966ec2](https://github.com/wchen02/python-leetcode/commit/e2966ec2e9bd8cb51d069867cc97ef83f4fa21b0))
+
 ### 0.34.0 (2020-01-02)
 
 ##### New Features
