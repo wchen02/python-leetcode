@@ -1,3 +1,25 @@
+### 0.36.0 (2020-01-06)
+
+##### Documentation Changes
+
+*  Fix url ([155b5779](https://github.com/wchen02/python-leetcode/commit/155b577986cb42895f2127ed9a65d894acc7e8f0))
+
+##### New Features
+
+*  Solves Course Schedule II ([0b2f369b](https://github.com/wchen02/python-leetcode/commit/0b2f369b6f0dd12af6acd58a7ba9b361dfcd7734))
+*  Solves Inorder Successor In BST ([fd5e2d87](https://github.com/wchen02/python-leetcode/commit/fd5e2d879882eceb625a8a494609c55e65c6fec8))
+*  Solves Merge Intervals ([17256c77](https://github.com/wchen02/python-leetcode/commit/17256c77cd59200311501b7d7a9c9b01a49a528f))
+*  Solves word break ([cbd37d32](https://github.com/wchen02/python-leetcode/commit/cbd37d32cb3c857b136064e7e2994f5bc2bdaaa6))
+*  Solves Course Schedule ([1ff5961f](https://github.com/wchen02/python-leetcode/commit/1ff5961fcdabd5d5f820c661963f18c2b9d304b1))
+
+##### Other Changes
+
+* wchen02/python-leetcode ([e46ac4d3](https://github.com/wchen02/python-leetcode/commit/e46ac4d37ecf75225d19ebf7943d464045c53567))
+
+##### Tests
+
+*  added empty test case ([b00ad270](https://github.com/wchen02/python-leetcode/commit/b00ad2702a2f075f983380516125d36feedf0ce6))
+
 ### 0.35.0 (2020-01-05)
 
 ##### New Features
