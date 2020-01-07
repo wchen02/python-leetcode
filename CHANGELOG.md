@@ -1,3 +1,9 @@
+### 0.37.0 (2020-01-07)
+
+##### New Features
+
+*  Solves Basic Calculator II ([80301aa8](https://github.com/wchen02/python-leetcode/commit/80301aa8d9cad49065461fba4b7d314366a472c1))
+
 ### 0.36.0 (2020-01-06)
 
 ##### Documentation Changes
