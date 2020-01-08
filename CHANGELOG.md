@@ -1,9 +1,15 @@
-### 0.37.0 (2020-01-08)
+### 0.38.0 (2020-01-08)
 
 ##### New Features
 
 *  Solves Remove Nth Node From End of List ([b938f11b](https://github.com/wchen02/python-leetcode/commit/b938f11b1730f026bffbe292401e55f1b62e5e84))
 *  Solves Find First and Last Position of Element in Sorted Array ([2c828796](https://github.com/wchen02/python-leetcode/commit/2c8287966e55651a1e6a116ef1cf6a9ca0cc2e93))
+
+### 0.37.0 (2020-01-07)
+
+##### New Features
+
+*  Solves Basic Calculator II ([80301aa8](https://github.com/wchen02/python-leetcode/commit/80301aa8d9cad49065461fba4b7d314366a472c1))
 
 ### 0.36.0 (2020-01-06)
 
