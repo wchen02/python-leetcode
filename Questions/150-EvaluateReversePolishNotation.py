@@ -3,12 +3,6 @@ from typing import List
 # See details here https://wenshengchen.com/2020/01/08/150-evaluate-reverse-polish-notation.html
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
-        def intDivision(a: int, b: int) -> int:
-            if a < 0 and b < 0 or a >=0 and b >=0:
-                return a // b
-            else:
-                return abs(a) // abs(b) * -1
-
         def evalExpression() -> int:
             token = tokens.pop()
 
@@ -25,7 +19,7 @@ class Solution:
             elif token == "*":
                 return num1 * num2
             else:
-                return intDivision(num1, num2)
+                return int(num1 / num2)
 
         return evalExpression()
 
