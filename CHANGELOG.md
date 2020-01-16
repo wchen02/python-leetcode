@@ -1,3 +1,22 @@
+### 0.38.0 (2020-01-16)
+
+##### New Features
+
+*  Solves Longest Substring without repeating characters ([0db70d95](https://github.com/wchen02/python-leetcode/commit/0db70d95f0d7ed3977fa073639a321802b44e8ed))
+*  Solves Search In Rotated Sorted Array ([d719879f](https://github.com/wchen02/python-leetcode/commit/d719879f38fb8e6d4a5fa0daba46ebf82d5171e8))
+*  Solves Concatenated Words ([1d553a8c](https://github.com/wchen02/python-leetcode/commit/1d553a8cd5716921319c9ff535822d5a6013b4d8))
+*  Solves Evaluate Reverse Polish Notation ([823b6da1](https://github.com/wchen02/python-leetcode/commit/823b6da1f59de4d9e1ed5c3cde6219cb4ee753d5))
+*  Solves Remove Nth Node From End of List ([b938f11b](https://github.com/wchen02/python-leetcode/commit/b938f11b1730f026bffbe292401e55f1b62e5e84))
+*  Solves Find First and Last Position of Element in Sorted Array ([2c828796](https://github.com/wchen02/python-leetcode/commit/2c8287966e55651a1e6a116ef1cf6a9ca0cc2e93))
+
+##### Other Changes
+
+* wchen02/python-leetcode ([ddff5a7e](https://github.com/wchen02/python-leetcode/commit/ddff5a7e697e8fd10b5ee79dbb7980447a8ac705))
+
+##### Refactors
+
+*  simplify code ([532bedfe](https://github.com/wchen02/python-leetcode/commit/532bedfee529ea00b31cbc4fc8e36b41a3c6b397))
+
 ### 0.38.0 (2020-01-08)
 
 ##### New Features
