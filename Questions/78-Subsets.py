@@ -1,4 +1,4 @@
-# See details here https://wenshengchen.com/2019/12/05/77-subsets.html
+# See details here https://wenshengchen.com/2019/12/05/78-subsets.html
 from typing import List, Dict
 
 class Solution:
