@@ -1,3 +1,18 @@
+### 0.39.0 (2020-01-18)
+
+##### Documentation Changes
+
+*  fix url ([de6af908](https://github.com/wchen02/python-leetcode/commit/de6af9087b98110a54bfa992e9a13fe68c1e37fc))
+
+##### New Features
+
+*  Solves Find Minimum In Rotated Sorted Array ([5474dcf7](https://github.com/wchen02/python-leetcode/commit/5474dcf79c04b54dde9e4302366c12c27292a76b))
+*  added simpler find peak element solution ([c99fd79b](https://github.com/wchen02/python-leetcode/commit/c99fd79bed7933a55402e06a05075075f0136eb7))
+*  Solves First Bad Version ([154abfc3](https://github.com/wchen02/python-leetcode/commit/154abfc35055f8c1c8add7f900bd29f28ab4a92f))
+*  Solves Guess Number Higher Or Lower ([65222603](https://github.com/wchen02/python-leetcode/commit/65222603f898aa57f0e1755d596616644207435f))
+*  Solves sqrt x ([60a08773](https://github.com/wchen02/python-leetcode/commit/60a087737778fa86070d02f67daab86a4e01e8d3))
+*  Solves  Copy List With Random Pointer ([f40bf69e](https://github.com/wchen02/python-leetcode/commit/f40bf69e65a3e6f1c4d641b35604418b4c695316))
+
 #### 0.38.1 (2020-01-18)
 
 ##### New Features
