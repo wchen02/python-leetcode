@@ -1,3 +1,13 @@
+#### 0.38.1 (2020-01-18)
+
+##### New Features
+
+*  Solves Jump Game ([a8bcadfe](https://github.com/wchen02/python-leetcode/commit/a8bcadfe95722bd83636a611c709f796a883acd4))
+
+##### Bug Fixes
+
+*  fix wrong url ([b2d61913](https://github.com/wchen02/python-leetcode/commit/b2d619134f2d8057ee0921f041e3bef7a032479b))
+
 ### 0.38.0 (2020-01-16)
 
 ##### New Features
