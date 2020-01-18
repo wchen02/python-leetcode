@@ -3,7 +3,7 @@ import sys
 
 # See details here https://wenshengchen.com/2019/12/29/162-find-peak-element.html
 class Solution:
-    def findPeakElement(self, nums: List[int]) -> int:
+    def findPeakElement2(self, nums: List[int]) -> int:
         if not nums:
             return -1
 
@@ -30,6 +30,23 @@ class Solution:
 
         return -1
 
+    def findPeakElement(self, nums: List[int]) -> int:
+        if not nums: return -1
+        if len(nums) == 1: return 0
+
+        lo, hi = 0, len(nums) - 1
+
+        while lo < hi:
+            mid1 = lo + (hi-lo)//2
+            mid2 = mid1 + 1
+
+            if nums[mid1] < nums[mid2]:
+                lo = mid1 + 1
+            else:
+                hi = mid1
+
+        return lo
+
 ## TEST CASES
 test = Solution()
 answer = test.findPeakElement([1,2,3,1])
@@ -45,9 +62,6 @@ answer = test.findPeakElement([9])
 assert answer == 0, answer
 
 answer = test.findPeakElement([])
-assert answer == -1, answer
-
-answer = test.findPeakElement([7,7])
 assert answer == -1, answer
 
 answer = test.findPeakElement([1,2,1,3,5,6,4])
