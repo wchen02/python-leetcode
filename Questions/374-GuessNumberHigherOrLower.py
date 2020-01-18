@@ -1,6 +1,6 @@
 from typing import List
 
-# See details here https://wenshengchen.com/2020/01/374/374-guess-number-higher-or-lower.html
+# See details here https://wenshengchen.com/2020/01/15/374-guess-number-higher-or-lower.html
 class Solution:
     def guessNumber(self, n: int) -> int:
         def guess(n: int) -> int:
