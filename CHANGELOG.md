@@ -1,3 +1,11 @@
+### 0.40.0 (2020-01-23)
+
+##### New Features
+
+*  Solves One Edit Distance ([56bf82ff](https://github.com/wchen02/python-leetcode/commit/56bf82ffe88ea48102781a14d81e487f21b22bf1))
+*  Solves Combination Sum ([55a3cceb](https://github.com/wchen02/python-leetcode/commit/55a3cceb5cb997c2e3b9d69dd70a7ee2b2ed7481))
+*  Solves Compare Version Numbers ([c8621476](https://github.com/wchen02/python-leetcode/commit/c8621476b40cd55b88097638ab11ff52f18bd751))
+
 ### 0.39.0 (2020-01-18)
 
 ##### Documentation Changes
