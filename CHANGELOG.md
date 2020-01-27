@@ -1,3 +1,9 @@
+### 0.41.0 (2020-01-27)
+
+##### New Features
+
+*  Solves Largest Number ([2228b79b](https://github.com/wchen02/python-leetcode/commit/2228b79b65dc13224163ff6c53e4e4cf23c4e8b0))
+
 ### 0.40.0 (2020-01-23)
 
 ##### New Features
