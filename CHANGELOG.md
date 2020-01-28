@@ -1,3 +1,10 @@
+### 0.42.0 (2020-01-28)
+
+##### New Features
+
+*  Solves Partition Equal Subset Sum ([c98479cc](https://github.com/wchen02/python-leetcode/commit/c98479cce9795499ad248b71a25a447e9e9d6db8))
+*  Solves Maximal Square ([ccac8b21](https://github.com/wchen02/python-leetcode/commit/ccac8b210cc40083ac9851d37a3e4204bd694312))
+
 ### 0.41.0 (2020-01-27)
 
 ##### New Features
