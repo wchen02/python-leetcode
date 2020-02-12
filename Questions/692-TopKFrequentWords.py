@@ -8,7 +8,7 @@ class Solution:
         hashmap = Counter(words)
         pq = heapq.nsmallest(k, hashmap.items(), lambda n: (-n[1], n[0]))
         
-        return map(lambda n: n[0], pq)
+        return list(map(lambda n: n[0], pq))
 
 ## TEST CASES
 test = Solution()
