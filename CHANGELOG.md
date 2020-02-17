@@ -1,3 +1,19 @@
+### 0.43.0 (2020-02-17)
+
+##### New Features
+
+*  Solves add and search word ([8bd69b4b](https://github.com/wchen02/python-leetcode/commit/8bd69b4bba7b8844e11ed4a51a44c3db11787acb))
+*  Solves Simplify Path ([cb21f144](https://github.com/wchen02/python-leetcode/commit/cb21f1444d4b3938d13d1252aab1188ae98b0f39))
+*  Solves Palindromic Substrings ([2aaa29a6](https://github.com/wchen02/python-leetcode/commit/2aaa29a60d7daf5427240ee9c8544c87be5b1c08))
+*  Solves Minimum Cost To Connect Sticks ([a5926ddc](https://github.com/wchen02/python-leetcode/commit/a5926ddcb55759cab05ad2691c2302ecf8cfdd86))
+*  Solves K Closest Points To Origin ([29e9d0ea](https://github.com/wchen02/python-leetcode/commit/29e9d0ea36ace953ce413d3e0185d15a308529ac))
+*  Solves Top K Frequent Words ([70d09d4a](https://github.com/wchen02/python-leetcode/commit/70d09d4a23676ba76066c4dc354bd638c18d3f71))
+*  Solves Minimum Domino Rotations For Equal Row ([cd62cf26](https://github.com/wchen02/python-leetcode/commit/cd62cf2693a50cb780573ceddb32c586ed667718))
+
+##### Bug Fixes
+
+*  fix 692 solution ([c8c571e4](https://github.com/wchen02/python-leetcode/commit/c8c571e433577fd04596e95a9621ad3148dfa077))
+
 ### 0.42.0 (2020-01-28)
 
 ##### New Features
