@@ -5,6 +5,7 @@ from typing import List
 class Solution:
     def depthSumInverse(self, nestedList: List[NestedInteger]) -> int:
         def getNestedList(nestedList: List[NestedInteger], depth: int) -> None:
+            nonlocal maxDepth
             maxDepth = max(maxDepth, depth)
             
             for n in nestedList:
@@ -23,8 +24,8 @@ class Solution:
 
         return sum
 
-
 ## TEST CASES
 test = Solution()
-assert test.knightDialer(1) == 10
+assert test.depthSumInverse([[1,1],2,[1,1]]) == 8
+assert test.depthSumInverse([1,[4,[6]]]) == 17
 print('All Passed!')
