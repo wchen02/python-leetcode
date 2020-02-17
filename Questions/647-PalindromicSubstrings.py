@@ -8,7 +8,7 @@ class Solution:
 
         for i in range(len(s)-1, -1, -1):
             for j in range(i, len(s)):
-                dp[i][j] = s[i] == s[j] and (i - j < 3 or dp[i+1][j-1])
+                dp[i][j] = s[i] == s[j] and (j - i < 3 or dp[i+1][j-1])
 
                 if dp[i][j]:
                     count += 1
@@ -22,5 +22,5 @@ assert test.countSubstrings("aaa") == 6
 assert test.countSubstrings("beb") == 4
 assert test.countSubstrings("bebe") == 6
 assert test.countSubstrings("aaaaaaa") == 28
-# assert test.countSubstrings("aacaaeadaa") == 17
+assert test.countSubstrings("aacaaeadaa") == 17
 print('All Passed!')
