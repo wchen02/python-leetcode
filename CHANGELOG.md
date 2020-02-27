@@ -1,3 +1,28 @@
+### 0.44.0 (2020-02-27)
+
+##### Documentation Changes
+
+*  update blog link ([35a8be5d](https://github.com/wchen02/python-leetcode/commit/35a8be5dfe29fd216b7b01f77708112393121893))
+
+##### New Features
+
+*  solves word ladder ([343c9c72](https://github.com/wchen02/python-leetcode/commit/343c9c72a300d0cf7ffbb475afebb8866b124f33))
+*  Solves time based key value store ([cdc9e5ea](https://github.com/wchen02/python-leetcode/commit/cdc9e5ea9b01317548776bba14712de1541297c1))
+*  Solves Flip Equivalent Binary Trees ([ffac4f24](https://github.com/wchen02/python-leetcode/commit/ffac4f2452792273b33b06bd7c48fabbf3978595))
+*  solves reverse words in a string ([ad46cb5b](https://github.com/wchen02/python-leetcode/commit/ad46cb5b8006a1484d64fabe66a18a1b9971f9c4))
+*  solves trapping rain water ([51107383](https://github.com/wchen02/python-leetcode/commit/5110738388e0f90d99e809794d9fea5c2db38b47))
+*  solves merge k sorted list ([b9251aac](https://github.com/wchen02/python-leetcode/commit/b9251aacadcd153628e4b0efd72fd34c0b1da190))
+*  Solves merge two sorted list ([503dd427](https://github.com/wchen02/python-leetcode/commit/503dd427a8baad94a18ca62800bcba474c1072f5))
+*  Solves longest palindromic substring ([12abccf0](https://github.com/wchen02/python-leetcode/commit/12abccf02c57296c5644a6d442af2a0abdad58da))
+*  Solves Search Suggestions System ([2c7f8348](https://github.com/wchen02/python-leetcode/commit/2c7f83481c035421501af5a03f50770262a32740))
+*  Solves Nested List Weight Sum II ([008a8ad0](https://github.com/wchen02/python-leetcode/commit/008a8ad0a8ae2f5717551c82e50b711f09584d9c))
+*  Solves Knight Dailer ([a357edbc](https://github.com/wchen02/python-leetcode/commit/a357edbc441af84a35c19e45037ad37da06521c5))
+
+##### Bug Fixes
+
+*  fix palindromic substring solution ([234a6e32](https://github.com/wchen02/python-leetcode/commit/234a6e32437eaaa418672cc83268a260a3a4108f))
+*  fix referencing nonlocal var ([d27a1843](https://github.com/wchen02/python-leetcode/commit/d27a1843a927b80d449ea0cf4c9411b937ad95f8))
+
 ### 0.43.0 (2020-02-17)
 
 ##### New Features
