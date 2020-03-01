@@ -1,6 +1,6 @@
 from collections import deque
 
-# See details here https://wenshengchen.com/2019/09/10/297-serialize-and-deserialize-binary-tree.html
+# See details here https://wenshengchen.com/2020/02/28/297-serialize-and-deserialize-binary-tree.html
 class TreeNode(object):
     def __init__(self, x):
         self.val = x
