@@ -6,7 +6,7 @@ class Solution:
         self.dfs(board, 0)
 
     def possibleValues(self, board, col, row):
-        valuesSeen = set([])
+        valuesSeen = set()
 
         for i in range(9):
             if board[row][i] != '.':
@@ -16,11 +16,11 @@ class Solution:
             if board[j][col] != '.':
                 valuesSeen.add(board[j][col])
 
-        x = row // 3
-        y = col // 3
+        x = row - row % 3
+        y = col - col % 3
 
-        for i in range(x*3, x*3+3):
-            for j in range(y*3, y*3+3):
+        for i in range(x, x + 3):
+            for j in range(y, y + 3):
                 if board[i][j] != '.':
                     valuesSeen.add(board[i][j])
 
@@ -30,22 +30,17 @@ class Solution:
         row = cellNum // 9
         col = cellNum % 9
 
-        if cellNum >= 81:
-            return True
+        if cellNum >= 81: return True
 
-        if board[row][col] != '.':
-            if self.dfs(board, cellNum + 1):
-                return True
-        else:
-            values = self.possibleValues(board, col, row)
-
-            original = board[row][col]
-            for value in list(values):
+        if board[row][col] == '.':
+            for value in self.possibleValues(board, col, row):
                 board[row][col] = value
                 if self.dfs(board, cellNum + 1):
                     return True
-                board[row][col] = original
+                board[row][col] = '.'
             return False
+
+        return self.dfs(board, cellNum + 1)
 
 ## TEST CASES
 test = Solution()
